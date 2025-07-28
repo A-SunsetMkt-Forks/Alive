@@ -6,16 +6,16 @@ navigation: false
 ::hero
 ---
 announcement:
-  title: 'Release v1'
+  title: 'Release v2.0.0'
   icon: '🎉'
-  to: https://shadcn-docs-nuxt.vercel.app/blog/v1
+  to: https://github.com/TopSea/Alive/releases
   target: _blank
 actions:
   - name: Documentation
     to: https://shadcn-docs-nuxt.vercel.app/getting-started/introduction
   - name: GitHub
     variant: outline
-    to: https://github.com/ZTL-UwU/shadcn-docs-nuxt
+    to: https://github.com/TopSea/Alive
     leftIcon: 'lucide:github'
 ---
 
@@ -27,5 +27,5 @@ Beautifully designed Nuxt Content template built with shadcn-vue. :br Customizab
 ::
 
 ::div{class="border rounded-lg shadow-md"}
-  :iframe{src="https://shadcn-docs-nuxt.vercel.app/getting-started/introduction" height="700" width="100%" class="rounded-lg" scrolling="no" frameborder="0"}
+  :iframe{src="//player.bilibili.com/player.html?isOutside=true&aid=114528087971279&bvid=BV1t3J3zVEfK&cid=30023222326&p=1" class="rounded-md" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16/9;"}
 ::
