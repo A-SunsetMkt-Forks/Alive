@@ -10,6 +10,11 @@ export default defineNuxtConfig({
         name: 'English',
         language: 'en-US',
       },
+      {
+        code: 'cn', // language 2 letters code (e.g. 'fr')
+        name: '简体中文', // language name (e.g. 'Français')
+        language: 'zh-CN', // language ISO code (e.g. 'fr-FR')
+      },
     ],
   },
   compatibilityDate: '2024-07-06',

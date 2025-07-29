@@ -17,7 +17,7 @@ export default defineAppConfig({
       showTitle: true,
       darkModeToggle: true,
       languageSwitcher: {
-        enable: false,
+        enable: true,
         triggerType: 'icon',
         dropdownType: 'select',
       },
