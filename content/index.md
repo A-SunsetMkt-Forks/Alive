@@ -12,7 +12,7 @@ announcement:
   target: _blank
 actions:
   - name: Documentation
-    to: https://shadcn-docs-nuxt.vercel.app/getting-started/introduction
+    to: /getting-started/introduction
   - name: GitHub
     variant: outline
     to: https://github.com/TopSea/Alive
@@ -20,10 +20,10 @@ actions:
 ---
 
 #title
-Welcome to shadcn-docs-nuxt
+Bring your favorite character to Alive
 
 #description
-Beautifully designed Nuxt Content template built with shadcn-vue. :br Customizable. Compatible. Open Source.
+Alive is a cross-platform desktop pet software with self-hosted AI services. :br **Customizable**. **Cross-platform**. **Free**.
 ::
 
 ::div{class="border rounded-lg shadow-md"}
