@@ -35,7 +35,7 @@ export default defineI18nConfig(() => ({
       // Header nav
       'shadcn-docs': 'shadcn-docs',
       'Docs': 'Docs',
-      'Getting Started': 'Mise en Route',
+      'Getting Started': '开始使用',
       'Start building your document with shadcn-docs-nuxt': 'Commencez à construire votre document avec shadcn-docs-nuxt',
       'Components': 'Composants',
       'Explore available UI components and usage examples.': 'Explorez les composants UI disponibles et les exemples d\'utilisation.',
@@ -53,12 +53,12 @@ export default defineI18nConfig(() => ({
       'Use This Template': 'Utiliser ce Template',
 
       // TOC
-      'Star on GitHub': 'Star sur GitHub',
-      'Create Issues': 'Créer une Issue',
+      'Star on GitHub': '点个星星',
+      'Create Issues': '遇到问题',
 
       // Footer
-      'FOOTER_CREDIT': 'Fait avec ❤️ par [**Tony Zhang**](https://github.com/ZTL-UwU/)',
-      'Sponsor Me': 'Me Sponsoriser',
+      'FOOTER_CREDIT': '一切为了芙宁娜.❤️',
+      'Sponsor Me': '支持本项目',
     },
   },
 }));
