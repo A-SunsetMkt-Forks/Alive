@@ -18,6 +18,10 @@ actions:
     variant: outline
     to: https://github.com/TopSea/Alive
     leftIcon: 'lucide:github'
+  - name: Gitee 地址
+    variant: outline
+    to: https://github.com/TopSea/Alive
+    leftIcon: 'simple-icons:gitee'
 ---
 
 #title

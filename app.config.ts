@@ -22,8 +22,8 @@ export default defineAppConfig({
         dropdownType: 'select',
       },
       logo: {
-        light: '/app-icon.png',
-        dark: '/app-icon.png',
+        light: '/app-icon-rounded.png',
+        dark: '/app-icon-rounded.png',
       },
       nav: [],
       links: [
@@ -49,12 +49,20 @@ export default defineAppConfig({
       showTitle: true,
     },
     footer: {
-      credits: 'Everything is for Furina.❤️',
-      links: [{
-        icon: 'lucide:github',
-        to: 'https://github.com/TopSea/Alive',
-        target: '_blank',
-      }],
+      credits: 'FOOTER_CREDIT',
+      links: [
+        {
+          icon: 'lucide:heart',
+          title: 'Sponsor Me',
+          to: 'https://afdian.com/',
+          target: '_blank',
+        },
+        {
+          icon: 'lucide:github',
+          to: 'https://github.com/TopSea/Alive',
+          target: '_blank',
+        }
+      ],
     },
     toc: {
       enable: true,

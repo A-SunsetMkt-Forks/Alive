@@ -28,7 +28,7 @@ export default defineI18nConfig(() => ({
       'Create Issues': 'Create Issues',
 
       // Footer
-      'FOOTER_CREDIT': 'Made with ❤️ by [**Tony Zhang**](https://github.com/ZTL-UwU/)',
+      'FOOTER_CREDIT': 'Everything is for Furina.❤️',
       'Sponsor Me': 'Sponsor Me',
     },
     cn: {
