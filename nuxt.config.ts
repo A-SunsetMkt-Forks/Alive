@@ -18,4 +18,7 @@ export default defineNuxtConfig({
     ],
   },
   compatibilityDate: '2024-07-06',
+  app: {
+    baseURL: '/'
+  }
 });
