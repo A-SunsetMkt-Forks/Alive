@@ -42,7 +42,7 @@ jobs:
       - name: Static HTML export with Nuxt
         run: bun run generate
       - name: Move files from Alive
-        run: mv dist/Alive/* dist/
+        run: mv dist/alive/* dist/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

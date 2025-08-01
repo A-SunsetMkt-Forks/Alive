@@ -12,7 +12,7 @@ announcement:
   target: _blank
 actions:
   - name: 使用文档
-    to: /getting-started/introduction
+    to: /alive/getting-started/introduction
     leftIcon: 'oui:documentation'
   - name: 发布地址
     variant: outline

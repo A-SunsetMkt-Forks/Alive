@@ -12,7 +12,7 @@ announcement:
   target: _blank
 actions:
   - name: Documentation
-    to: /getting-started/introduction
+    to: /alive/getting-started/introduction
   - name: GitHub
     variant: outline
     to: https://github.com/TopSea/Alive
